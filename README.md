@@ -1,4 +1,4 @@
-#Seatest
+# Seatest
 
 A simple unit testing framework for C based on the xUnit style of unit testing. Ideal for Test Driven Development ( TDD ). Designed to be portable.
 
